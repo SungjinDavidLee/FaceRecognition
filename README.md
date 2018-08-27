@@ -3,7 +3,5 @@
 
 ## 1. Haar Detector
 
-## 2. OpenFace
-
-## 3. FaceNet
+## 2. FaceNet
 
